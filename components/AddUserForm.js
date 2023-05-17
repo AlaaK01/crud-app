@@ -1,4 +1,4 @@
-import { useReducer } from "react";
+'use client'
 import { BiPlus } from "react-icons/bi";
 import Bug from "./Bug";
 import Success from "./Success";

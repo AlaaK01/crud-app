@@ -1,3 +1,5 @@
+'use client'
+
 import AddUserForm from "./AddUserForm";
 import UpdateUserForm from "./UpdateUserForm";
 import { useSelector } from "react-redux";

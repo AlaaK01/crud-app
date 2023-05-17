@@ -1,3 +1,5 @@
+'use client'
+
 import { BiCheck } from "react-icons/bi";
 
 const Bug = ({message}) => {
